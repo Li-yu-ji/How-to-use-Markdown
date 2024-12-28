@@ -1,7 +1,7 @@
 # 文章目录
-> 1.Markdown是啥?
-> 2.Markdown被应用在哪里?
->  3.Markdown怎么用?
+> 1.[Markdown是啥?](https://github.com/Li-yu-ji/How-to-use-Markdown/tree/main?tab=readme-ov-file#1markdown%E6%98%AF%E5%95%A5)
+> [2.Markdown被应用在哪里?](https://github.com/Li-yu-ji/How-to-use-Markdown/tree/main#2markdown%E8%A2%AB%E5%BA%94%E7%94%A8%E5%9C%A8%E5%93%AA%E9%87%8C)
+> [3.Markdown怎么用?](https://github.com/Li-yu-ji/How-to-use-Markdown/tree/main?tab=readme-ov-file#3-markdown%E6%80%8E%E4%B9%88%E7%94%A8)
 
 
 # 1.*Markdown*是啥？
